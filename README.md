@@ -20,7 +20,7 @@ I'm also very interested in fields like nutrition and healthcare, and I'm passio
 
 ## Featured Projects
 
-Here are some of my academic projects that show some of what I have learned throughout these years about programming, data analysis, and mathematics.
+Here are some of my academic projects that showcase part of what I have learned in programming, data analysis, and applied mathematics throughout my studies.
 ### 🔸 [Liver Patient Classification](https://github.com/ainavilaa/LiverPatientClassification_MachineLearning)
 Implementation of supervised machine learning models for liver patient classification using clinical and demographic data.
 ### 🔸 [LaLiga Multivariate Data Analysis](https://github.com/ainavilaa/LaLigaPlayerPerformance_MultivariateAnalysis)
