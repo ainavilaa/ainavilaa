@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Aina 👋
 
 <!--
 **ainavilaa/ainavilaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Data Science and Engineering student with a strong interest in learning how mathematics and technology can make a meaningful change when applied to real-world problems.
+
+I'm also very interested in fields like nutrition and healthcare, and I'm passionate about sports, nature, fashion, and photography.
+
+## Featured Projects
+
+Here are some of my academic projects that show some of what I have learned throughout these years about programming, data analysis, and mathematics.
+### 🔸 [Liver Patient Classification](https://github.com/ainavilaa/LiverPatientClassification_MachineLearning)
+Implementation of supervised machine learning models for liver patient classification using clinical and demographic data.
+### 🔸 [Multivariate Data Analysis](https://github.com/ainavilaa/LaLigaPlayerPerformance_MultivariateAnalysis)
+Multivariate analysis of LaLiga 2019-2020 player statistics to uncover patterns in performance, roles, and team contributions.
+### 🔸 [Time Series Forecasting](https://github.com/ainavilaa/TourismSpain_TimeSeriesForecasting)
+Time series forecasting using Box-Jenkins methodology, applied to monthly tourist arrivals in Sapin.
+### 🔸 [Programming: Textile Factory](https://github.com/ainavilaa/Textile_Factory)
+Exhaustive search, greedy, and a metaheuristic algorithm implementation to solve a textile production optimization problem based on real-world manufacturing constraints.
+### 🔸 [Programming: Routes and Monuments](https://github.com/ainavilaa/Routes_and_Monuments)
+Hiking trails and medieval landmarks exploration through GPS data analysis, map inference, optimal routing, and interactive 2D and 3D visualizations.
+### 🔸 [Programming: Ciutats i Camins](https://github.com/ainavilaa/Ciutats_i_Camins)
+A strategy game inspired by Catan, where players build cities and paths, collect resources, and compete for wealth on a turn-based board.
+
+## How to Reach Me
+- **Email**: [ainaviar@gmail.com](mailto:ainaviar@gmail.com)
+- **LinkedIn**: [linkedin.com/in/aina-vila-arbusà](www.linkedin.com/in/aina-vila-arbusà-785115371)
+
+)
