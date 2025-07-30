@@ -23,9 +23,9 @@ I'm also very interested in fields like nutrition and healthcare, and I'm passio
 Here are some of my academic projects that show some of what I have learned throughout these years about programming, data analysis, and mathematics.
 ### 🔸 [Liver Patient Classification](https://github.com/ainavilaa/LiverPatientClassification_MachineLearning)
 Implementation of supervised machine learning models for liver patient classification using clinical and demographic data.
-### 🔸 [Multivariate Data Analysis](https://github.com/ainavilaa/LaLigaPlayerPerformance_MultivariateAnalysis)
+### 🔸 [LaLiga Multivariate Data Analysis](https://github.com/ainavilaa/LaLigaPlayerPerformance_MultivariateAnalysis)
 Multivariate analysis of LaLiga 2019-2020 player statistics to uncover patterns in performance, roles, and team contributions.
-### 🔸 [Time Series Forecasting](https://github.com/ainavilaa/TourismSpain_TimeSeriesForecasting)
+### 🔸 [Tourism Time Series Forecasting](https://github.com/ainavilaa/TourismSpain_TimeSeriesForecasting)
 Time series forecasting using Box-Jenkins methodology, applied to monthly tourist arrivals in Sapin.
 ### 🔸 [Programming: Textile Factory](https://github.com/ainavilaa/Textile_Factory)
 Exhaustive search, greedy, and a metaheuristic algorithm implementation to solve a textile production optimization problem based on real-world manufacturing constraints.
@@ -36,6 +36,5 @@ A strategy game inspired by Catan, where players build cities and paths, collect
 
 ## How to Reach Me
 - **Email**: [ainaviar@gmail.com](mailto:ainaviar@gmail.com)
-- **LinkedIn**: [linkedin.com/in/aina-vila-arbusà](www.linkedin.com/in/aina-vila-arbusà-785115371)
+- **LinkedIn**: [linkedin.com/in/aina-vila-arbusà](https://www.linkedin.com/in/aina-vila-arbus%C3%A0-785115371/)
 
-)
