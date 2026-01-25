@@ -27,7 +27,7 @@ Implementation of supervised machine learning models for liver patient classific
 Multivariate analysis of LaLiga 2019-2020 player statistics to uncover patterns in performance, roles, and team contributions.
 ### 🔸 [Tourism Time Series Forecasting](https://github.com/ainavilaa/TourismSpain_TimeSeriesForecasting)
 Time series forecasting using Box-Jenkins methodology, applied to monthly tourist arrivals in Sapin.
-### 🔸 [Data Engineering: DW for Descriptive Analytics](https://github.com/ainavilaa/DataEngineering_DescriptiveAnalytics)
+### 🔸 [Data Warehouse for Descriptive Analytics](https://github.com/ainavilaa/DataEngineering_DescriptiveAnalytics)
 End-to-end DW for aircraft analytics. Features pygrametl ETL pipelines, multidimensional modeling, and DuckDB OLAP optimization. Includes automated data quality process and comparative performance profiling between operational sources and analytical targets.
 ### 🔸 [Programming: Textile Factory](https://github.com/ainavilaa/Textile_Factory)
 Exhaustive search, greedy, and a metaheuristic algorithm implementation to solve a textile production optimization problem based on real-world manufacturing constraints.
